@@ -1,0 +1,48 @@
+/*==================== BASE ====================*/
+
+/*==================== VARIABLES CSS ====================*/
+
+body {
+  --app-background: #eaebf5;
+  --chat-background: #fff;
+  --link-color: #c0c1c5;
+  --navigation-bg: #fff;
+  --navigation-box-shadow: 0 2px 6px 0 rgba(136, 148, 171, 0.2),
+    0 24px 20px -24px rgba(71, 82, 107, 0.1);
+  --main-color: #3d42df;
+  --message-bg: #f3f4f9;
+  --message-bg-2: #3d42df;
+  --message-text: #2c303a;
+  --placeholder-text: #a2a4bc;
+  --button-bg: #fff;
+}
+/*========== Variables Dark theme ==========*/
+
+body.dark {
+  --app-background: #262a42;
+  --navigation-box-shadow: 0px 0px 8px 0px #282b33;
+  --chat-background: #3c3f56;
+  --message-bg: #2c3046;
+  --message-text: rgba(255, 255, 255, 0.8);
+  --placeholder-text: #fff;
+  --navigation-bg: #3c3f56;
+  --button-bg: #3c3f56;
+  --main-color: #6f74ff;
+  --message-bg-2: #6f74ff;
+}
+
+/*==================== LAYOUT ====================*/
+
+/*==================== Navigation ====================*/
+
+/*==================== Chat ====================*/
+
+/*==================== Main App ====================*/
+
+/*==================== MEDIA QUERIES ====================*/
+
+/*==================== Devices smaller than 900px ====================*/
+
+/*==================== Devices smaller than 520px ====================*/
+
+/*==================== Devices Between 520px - 720px ====================*/
